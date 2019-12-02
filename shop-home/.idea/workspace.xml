@@ -37,18 +37,19 @@
     <session id="-1517318147">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,7 +59,7 @@
           <entry key="css" value="3" />
           <entry key="html" value="36" />
           <entry key="iml" value="1" />
-          <entry key="java" value="196" />
+          <entry key="java" value="199" />
           <entry key="js" value="5" />
           <entry key="jsp" value="1" />
           <entry key="properties" value="30" />
@@ -71,7 +72,7 @@
           <entry key="CSS" value="3" />
           <entry key="HTML" value="36" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="196" />
+          <entry key="JAVA" value="199" />
           <entry key="JSP" value="1" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -82,16 +83,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="html" value="2520" />
-          <entry key="java" value="2503" />
+          <entry key="html" value="2695" />
+          <entry key="java" value="2605" />
           <entry key="properties" value="52" />
           <entry key="xml" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2520" />
-          <entry key="JAVA" value="2503" />
+          <entry key="HTML" value="2695" />
+          <entry key="JAVA" value="2605" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="52" />
           <entry key="SQL" value="28" />
@@ -105,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/controller/CartController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="261">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,9 +116,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/ICartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-682">
+            <state relative-caret-position="-110">
               <caret line="233" column="31" selection-start-line="233" selection-start-column="22" selection-end-line="233" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -126,20 +136,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/carts/carts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="88" column="52" lean-forward="true" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
+            <state relative-caret-position="235">
+              <caret line="258" column="28" lean-forward="true" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/impl/CartServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="76" column="5" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="76" selection-end-column="5" />
+            <state relative-caret-position="308">
+              <caret line="101" column="61" lean-forward="true" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,10 +158,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/pom.xml">
+        <entry file="file://$PROJECT_DIR$/shop-login/src/main/java/com/fh/redis/impl/RedisServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="44">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -223,12 +233,12 @@
         <option value="$PROJECT_DIR$/shop-login/src/main/java/com/fh/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/shop-login/src/main/java/com/fh/service/impl/ICustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/shop-web/src/main/webapp/carts/carts.html" />
-        <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/ICartService.java" />
         <option value="E:/1903B/six/shop-1904B 27号/shop-cart/pom.xml" />
         <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/bean/CartBean.java" />
-        <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/impl/CartServiceImpl.java" />
         <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/controller/CartController.java" />
+        <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/ICartService.java" />
+        <option value="E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-web/src/main/webapp/carts/carts.html" />
       </list>
     </option>
   </component>
@@ -260,8 +270,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1944" />
     <option name="height" value="1044" />
   </component>
@@ -270,69 +280,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fh" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fh" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
@@ -424,7 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Login-8084">
+  <component name="RunManager" selected="Spring Boot.produvt-8081">
     <configuration name="ShopProductApiApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shop-product-api" />
       <extension name="coverage">
@@ -677,6 +688,8 @@
       <workItem from="1575111401817" duration="5388000" />
       <workItem from="1575161475654" duration="6151000" />
       <workItem from="1575180545621" duration="4296000" />
+      <workItem from="1575208985202" duration="3621000" />
+      <workItem from="1575249734862" duration="4150000" />
     </task>
     <servers />
   </component>
@@ -698,12 +711,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121469000" />
+    <option name="totallyTimeSpent" value="129240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24090542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -714,7 +727,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.6589698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39253998" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1616341" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -903,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-login/src/main/java/com/fh/redis/impl/RedisServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/login/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1821">
@@ -998,9 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,34 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/carts/carts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="88" column="52" lean-forward="true" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="220" selection-start-line="220" selection-end-line="220" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/ICartService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-commons/src/main/java/com/fh/login/LoginAuthorization.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
@@ -1125,9 +1100,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
+        <state relative-caret-position="-110">
           <caret line="233" column="31" selection-start-line="233" selection-start-column="22" selection-end-line="233" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1135,23 +1124,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/ICartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/controller/CartController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="261">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop-login/src/main/java/com/fh/redis/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://E:/1903B/six/shop-1904B 27号/shop-cart/src/main/java/com/fh/service/impl/CartServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="76" column="5" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="76" selection-end-column="5" />
+        <state relative-caret-position="308">
+          <caret line="101" column="61" lean-forward="true" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/src/main/webapp/carts/carts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="258" column="28" lean-forward="true" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
         </state>
       </provider>
     </entry>

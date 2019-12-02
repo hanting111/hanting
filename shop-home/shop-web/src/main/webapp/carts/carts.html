@@ -151,7 +151,7 @@
                         cartHtml += '</li>';
                         cartHtml += '<li class="list_amount">';
                         cartHtml += ' <div class="amount_box">';
-                        cartHtml += '  <a href="javascript:;" class="reduce reSty">-</a>';
+                        cartHtml += '  <a href="javascript:void(0);" onclick="removeCartNum('+cartList[i].productId+')" class="reduce reSty">-</a>';
                         cartHtml += '  <input type="text" oldSum="'+cartList[i].count+'" class="sum" productId="'+cartList[i].productId+'" value="'+cartList[i].count+'">';
                         cartHtml += ' <a href="javascript:void(0);" onclick="addCartNum('+cartList[i].productId+')"  class="plus">+</a>';
                         cartHtml += '  </div>';
@@ -160,7 +160,7 @@
                         cartHtml += '   <p class="sum_price">￥<span >'+cartList[i].subtotal+'</span></p>';
                         cartHtml += ' </li>';
                         cartHtml += ' <li class="list_op">';
-                        cartHtml += '  <p class="del"><a href="javascript:;" class="delBtn">移除商品</a></p>';
+                        cartHtml += '  <p class="del"><a href="javascript:;" class="delBtn" onclick="deleteShop('+cartList[i].productId+')">移除商品</a></p>';
                         cartHtml += ' </li>';
                         cartHtml += '</ul>';
                     }
@@ -187,10 +187,28 @@
         })
     }
 
-    //修改商品的数量
+    //增加商品的数量
     function addCartNum(productId) {
         $.ajax({
             url: "http://localhost:8085/carts/updataNum",
+            type: "post",
+            dataType: "json",
+            async: false,
+            data: {
+                "productId": productId
+            },
+            success: function (result) {
+                if (result.code == 200) {
+                    showCarts();
+                }
+            }
+        })
+    }
+
+    //减少
+    function removeCartNum(productId) {
+        $.ajax({
+            url: "http://localhost:8085/carts/removeNum",
             type: "post",
             dataType: "json",
             async: false,
@@ -224,4 +242,23 @@
             })
         })
     }
+
+
+    //删除
+    function deleteShop(productId) {
+        $.ajax({
+            url:"http://localhost:8085/carts/deleteShop",
+            type:"post",
+            dataType:"json",
+            async:false,
+            data:{
+                "productId":productId
+            },
+            success:function (result) {
+                history.go(0);
+                showCarts();
+            }
+        })
+    }
+
 </script>
